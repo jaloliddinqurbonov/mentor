@@ -10,7 +10,7 @@ const roles = [
     icon: GraduationCap,
     color: "rgb(20, 184, 166)",
   },
-  { id: "mentor", label: "Mentor", icon: Users, color: "rgb(16, 185, 129)" },
+  { id: "mentor", label: "Yordamchi o'qituvchi", icon: Users, color: "rgb(16, 185, 129)" },
   { id: "student", label: "O'quvchi", icon: User, color: "rgb(107, 114, 128)" },
 ];
 
